@@ -1,0 +1,20 @@
+C:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.exe.config
+C:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.exe
+C:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.pdb
+C:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.csprojResolveAssemblyReference.cache
+C:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.exe
+C:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.pdb
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.exe.config
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.exe
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.pdb
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.exe
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.pdb
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.csprojAssemblyReference.cache
+D:\Users\john\Desktop\Master\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.csproj.CoreCompileInputs.cache
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.exe.config
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.exe
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\bin\Debug\SiguriaeInformacionit.pdb
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.csprojAssemblyReference.cache
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.csproj.CoreCompileInputs.cache
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.exe
+C:\Users\Ardian Ahmeti\Desktop\SiguriaeInformacionit\SiguriaeInformacionit\SiguriaeInformacionit\obj\Debug\SiguriaeInformacionit.pdb
